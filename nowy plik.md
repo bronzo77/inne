@@ -1,1 +1,2 @@
 Jakis tekst
+modyfikacja tekstu
