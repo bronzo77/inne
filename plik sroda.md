@@ -1,1 +1,3 @@
-tekst do pliku
+zkasowano kawalek tekstu
+
+#dodano linijke tekstu
